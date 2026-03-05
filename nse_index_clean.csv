@@ -1,0 +1,11 @@
+index_name,market_cap_category,cagr_1y,cagr_3y,cagr_5y,volatility,avg_pe,avg_pb,index_level,risk_level
+NIFTY 50,Large Cap,18.2,14.6,13.9,12.8,22.4,3.8,21750,High
+NIFTY NEXT 50,Large Cap,20.5,16.9,15.2,14.6,26.1,4.2,61250,High
+NIFTY MIDCAP 100,Mid Cap,24.9,20.1,18.5,18.1,31.4,5.3,49250,High
+NIFTY MIDCAP 150,Mid Cap,23.8,19.5,17.9,17.4,30.2,5.1,18940,High
+NIFTY SMALLCAP 100,Small Cap,28.1,23.5,21.2,22.7,37.4,6.6,14350,Very High
+NIFTY SMALLCAP 250,Small Cap,26.9,22.1,20.3,21.8,35.9,6.3,11860,Very High
+NIFTY MICROCAP 250,Micro Cap,31.8,26.4,23.7,27.6,42.5,7.8,16230,Extreme
+NIFTY BANK,Sectoral Large Cap,16.1,12.9,11.8,14.2,18.6,2.9,46250,Medium
+NIFTY FMCG,Defensive Large Cap,12.6,13.8,14.9,9.4,45.2,10.2,54280,Low
+NIFTY PHARMA,Large Cap Pharma,15.4,14.1,15.6,11.2,34.8,5.9,19760,Medium
